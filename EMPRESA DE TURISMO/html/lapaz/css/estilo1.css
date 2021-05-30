@@ -1,0 +1,13 @@
+h1{
+	font-family:Chiller;
+	font-size:80px;
+	color:yellow;
+	letter-spacing:5px;
+}
+body{
+	color:golden;
+	background-image:url(lapaznoche.jpg);
+	background-repeat:repeat-x;
+	padding-left:20px;
+	padding-top:10px;
+}

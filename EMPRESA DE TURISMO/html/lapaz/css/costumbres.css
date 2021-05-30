@@ -1,0 +1,14 @@
+img
+{
+	width: 250px;
+	height: 250px;
+	border-style:inset;
+}
+body{
+	background-image:url(La-Paz-from-Mirador-Killi-Killi-1024x683.jpg);
+}
+h1{
+	color:white;
+	font-family:Chiller;
+	font-size:70px;
+}
